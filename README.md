@@ -1,4 +1,4 @@
-# DAH
+# Dense Auto-Encoder Hashing
 
 This is the project of our ACM MM paper (Dense Auto-Encoder Hashing for Robust Cross-Modality Retrieval. ACM MM, 2018.)
 
