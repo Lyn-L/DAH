@@ -10,7 +10,7 @@ The comparison results are shown as below:
 | MAP on I2T | 0.3223           | 0.3131          |
 | MAP on T2I | 0.7504           | 0.7066          |
 | Pre on I2T | 0.2599           | 0.2798          |
-| Pre on T2I | 0.7035           | 0,7066          |
+| Pre on T2I | 0.7035           | 0.7066          |
 
 Feel free to contact us (lynnliu.xmu at gmail dot com), if you have any problems.
 
